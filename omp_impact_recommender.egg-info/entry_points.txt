@@ -1,0 +1,2 @@
+[console_scripts]
+omp_impact_recommender = omp_impact_recommender.cli_tool:main

@@ -1,0 +1,10 @@
+setup.py
+omp_impact_recommender/__init__.py
+omp_impact_recommender/ast_analyzer.py
+omp_impact_recommender/cli_tool.py
+omp_impact_recommender.egg-info/PKG-INFO
+omp_impact_recommender.egg-info/SOURCES.txt
+omp_impact_recommender.egg-info/dependency_links.txt
+omp_impact_recommender.egg-info/entry_points.txt
+omp_impact_recommender.egg-info/requires.txt
+omp_impact_recommender.egg-info/top_level.txt
